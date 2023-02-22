@@ -1,0 +1,1 @@
+DROP TABLE myProduct_myOrder;
